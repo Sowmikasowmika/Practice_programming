@@ -13,3 +13,4 @@ Practicing java progaramming for interview
 11) Binary to decimal converstion
 12) Decimal to binary converstion
 13) Check for Anagrams
+14) Remove Duplicates from an Array

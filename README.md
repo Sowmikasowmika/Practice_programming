@@ -15,3 +15,4 @@ Practicing java progaramming for interview
 13) Check for Anagrams
 14) Remove Duplicates from an Array
 15) . Find Largest and Smallest Element in an Array
+16) Sum of Array Elements

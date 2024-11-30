@@ -19,3 +19,4 @@ Practicing java progaramming for interview
 17) Check if Array is Sorted
 18) Count Vowels and Consonants in a String
 19) Find the Second Largest Element in an Array
+20) Find the Frequency of Characters in a String

@@ -17,3 +17,4 @@ Practicing java progaramming for interview
 15) . Find Largest and Smallest Element in an Array
 16) Sum of Array Elements
 17) Check if Array is Sorted
+18) Count Vowels and Consonants in a String

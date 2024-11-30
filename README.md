@@ -7,3 +7,4 @@ Practicing java progaramming for interview
 5) Factorial of a Number
 6) Prime Number Check
 7) Print Prime Numbers in a Range
+8) Sum of Digits

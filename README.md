@@ -5,3 +5,4 @@ Practicing java progaramming for interview
 3) Palindrome Number/String
 4) Fibonacci Sequence
 5) Factorial of a Number
+6) Prime Number Check

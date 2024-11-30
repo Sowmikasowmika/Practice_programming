@@ -11,3 +11,4 @@ Practicing java progaramming for interview
 9) Reverse a String/Number
 10) LCM and GCD of Two Numbers
 11) Binary to decimal converstion
+12) Decimal to binary converstion

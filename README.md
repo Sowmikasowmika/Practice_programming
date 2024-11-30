@@ -4,3 +4,4 @@ Practicing java progaramming for interview
 2) Armstrong Number
 3) Palindrome Number/String
 4) Fibonacci Sequence
+5) Factorial of a Number

@@ -10,3 +10,4 @@ Practicing java progaramming for interview
 8) Sum of Digits
 9) Reverse a String/Number
 10) LCM and GCD of Two Numbers
+11) Binary to decimal converstion

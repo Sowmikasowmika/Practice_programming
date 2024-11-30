@@ -8,3 +8,4 @@ Practicing java progaramming for interview
 6) Prime Number Check
 7) Print Prime Numbers in a Range
 8) Sum of Digits
+9) Reverse a String/Number
